@@ -67,3 +67,8 @@ void example() {
   
   pool.shutdown();
 }
+
+int main(int argc, char *argv[])
+{
+  example();
+}
