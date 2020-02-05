@@ -1,8 +1,9 @@
 # Build
 #VS
-.vs/
-Debug/
-Release/
+**/.vs/
+**/.vscode/
+**/Debug/
+**/Release/
 # Netbeans
 nbproject/
 *.user
@@ -11,7 +12,7 @@ nbproject/
 *.sln
 
 # Cmake
-build
+**/build
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
